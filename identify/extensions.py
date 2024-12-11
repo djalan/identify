@@ -215,7 +215,6 @@ EXTENSIONS = {
     'r': {'text', 'r'},
     'rake': {'text', 'ruby'},
     'rb': {'text', 'ruby'},
-    'resource': {'text', 'robot'},
     'resx': {'text', 'resx', 'xml'},
     'rng': {'text', 'xml', 'relax-ng'},
     'robot': {'text', 'robot'},
